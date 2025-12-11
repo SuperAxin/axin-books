@@ -8,6 +8,8 @@ https://attack.mitre.org/
 
 https://osintframework.com/
 
+https://brutecat.com/
+
 總體經濟資源
 
 https://fred.stlouisfed.org/
